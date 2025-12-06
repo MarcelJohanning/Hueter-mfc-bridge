@@ -1,0 +1,25 @@
+# Node
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist
+build
+.cache
+
+# Env / Secrets
+.env
+.env.*
+!.env.example
+
+# Editor / System
+.DS_Store
+.vscode
+.idea
+*.swp
+
+# Logs
+logs
+*.log
+
